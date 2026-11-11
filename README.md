@@ -18,10 +18,10 @@
 
 ### 📊 Моя статистика
 <div align="center">
-  <!-- Ссылка исправлена на ваш текущий ник ilenara -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ilenara&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7&text_color=ffffff&count_private=true" alt="Статистика GitHub" width="450" />
+  <!-- Заменили домен на более стабильный github-stats-extended -->
+  <img src="https://github-stats-extended.vercel.app/api?username=ilenara&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7&text_color=ffffff" alt="Статистика GitHub" width="450" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilenara&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=ffffff" alt="Языки" width="350" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ilenara&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=ffffff" alt="Языки" width="350" />
 </div>
 
 <br/>
