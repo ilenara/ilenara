@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Привет, я ilenara 👋</h1>
-
+  
 </div>
 
 ### 🚀 Обо мне
@@ -18,7 +18,10 @@
 
 ### 📊 Моя статистика
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Everlyww376w&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7&text_color=ffffff" alt="Статистика GitHub" width="450" />
+  <!-- Ссылка исправлена на ваш текущий ник ilenara -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ilenara&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7&text_color=ffffff&count_private=true" alt="Статистика GitHub" width="450" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilenara&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=ffffff" alt="Языки" width="350" />
 </div>
 
 <br/>
@@ -29,7 +32,7 @@
     <img src="https://img.shields.io/badge/ВКонтакте-0077FF?style=for-the-badge&logo=vk&logoColor=white" alt="VK" />
   </a>
   
-  <a href="https://t.me/lenariikk">
+  <a href="https://t.me/lenariikkk">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
 </div>
